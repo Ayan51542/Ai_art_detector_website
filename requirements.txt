@@ -1,0 +1,8 @@
+flask
+gunicorn
+transformers
+torch
+Pillow
+numpy
+opencv-python-headless
+firebase-admin
